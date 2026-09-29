@@ -1,0 +1,8 @@
+target/
+*.class
+*.log
+.idea/
+.vscode/
+*.iml
+notes.db
+src/main/java/com/example/parkspot/controller/oracleJdk-27/
